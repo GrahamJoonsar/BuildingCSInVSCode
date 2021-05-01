@@ -9,4 +9,5 @@ if errorlevel 1 (
 
 start %1 %1
 
+Rem This is the command you need to run in console
 Rem .\compiler.bat helloWorld.exe helloWorld.cs
